@@ -1,0 +1,6 @@
+Terms and Conditions page :
+
+
+Tricentis Tosca is a test automation tool that simplifies and accelerates end-to-end testing, particularly for enterprise and custom applications. 
+It uses a model-based approach, making it easier to create and maintain automated tests, even for non-technical users. 
+Tosca supports various testing activities, including regression, system smoke, and integration tests
